@@ -81,28 +81,6 @@ The aim of this project is to detect accidents in video footage using YOLOv8 for
     - Upload videos and initiate object detection.
     - View detected incidents and receive alerts.
 
-## File Structure
-
-```sh
-accident-detection-using-yolo/
-│
-├── uploads/                   # Directory for uploaded videos
-├── app.py                     # Main application file
-├── requirements.txt           # Python dependencies
-├── .env                       # Environment file for Twilio credentials
-└── README.md                  # Project README file
-```
-
-## Future Improvements
-
-- Improve detection accuracy by fine-tuning the YOLO model.
-- Add support for real-time video streaming and detection.
-- Enhance alert system to include more detailed notifications and multiple communication channels.
-- Implement a database to store detected incidents and alert history.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements, bug fixes, or new features.
 
 ## License
 
